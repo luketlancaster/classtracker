@@ -696,7 +696,8 @@
     "hwUrl": "",
     "eventType": "lecture",
     "description": "flexbox",
-    "githubRepo": "https://github.com/nss-evening-cohort-12/fl2xbox-intro"
+    "githubRepo": "https://github.com/nss-evening-cohort-12/flexbox-intro",
+    "recordings": [{"topid":"CSS/Flexbox", "link": "https://zoom.us/rec/share/wf4sLK-t9V9IUNbws22YRLAuRoTCT6a8hyMaqPZbyB2b3oJ2tBlWSJxX3yyfCF1D", "password": "g2^n8$22"}]
   },
   "cal66": {
     "title": "Exercises/Prework",
