@@ -1,7 +1,6 @@
 import React from 'react';
 import moment from 'moment';
 
-import treehouseLogo from './treehouse.png';
 import './SingleStudent.scss';
 
 import assignmentRequests from '../../../helpers/data/assignmentRequests';
@@ -18,6 +17,17 @@ class SingleStudent extends React.Component {
     freshAssignmentNum: 0,
     excusedAssignmentNum: 0,
   };
+
+  togglePreworkComplete = (e) => {
+    const studentId = this.props.match.params.id;
+    const { student } = this.state;
+    student.preworkComplete = !student.preworkComplete;
+    studentRequests
+      .updateStudent(studentId, student)
+      .then(() => {
+        this.getStudent(studentId);
+      });
+  }
 
   getStudent(id) {
     studentRequests
@@ -162,21 +172,22 @@ class SingleStudent extends React.Component {
           <div className="jumbotron col">
             <div className="row">
               <div className="col-9">
-                <h1>Student: {student.firstName} {student.lastName}</h1>
+                <h1>{student.firstName} {student.lastName}</h1>
               </div>
               <div className="col-3">
                 <div className="row">
-                  <div className="col-4">
-                    <a className="treehouse-link" href={student.treehouse} target="_blank" rel="noopener noreferrer">
-                      <img className="treehouse-img" src={treehouseLogo} alt="treehouse logo" />
-                    </a>
+                  <div className="prework-check">
+                    <input className="form-check-input" type="checkbox" value="" id="defaultCheck1" onChange={this.togglePreworkComplete} checked={student.preworkComplete} />
+                    <label className="form-check-label" htmlFor="defaultCheck1">Prework Completed</label>
                   </div>
-                  <div className="col-4">
+                </div>
+                <div className="row">
+                  <div className="col-3">
                     <a className="github-link" href={`https://github.com/${student.githubUsername}`} target="_blank" rel="noopener noreferrer">
                       <i className="fab fa-github fa-2x"></i>
                     </a>
                   </div>
-                  <div className="col-4">
+                  <div className="col-3">
                     <a className="website-link" href={student.biosite} target="_blank" rel="noopener noreferrer">
                       <i className="fas fa-address-book fa-2x"></i>
                     </a>
@@ -199,7 +210,7 @@ class SingleStudent extends React.Component {
                   <br/> {freshAssignmentNum} / {assignments.length - excusedAssignmentNum} = {(freshAssignmentNum / (assignments.length - excusedAssignmentNum) * 100).toFixed('0')}%
                 </div>
               </div>
-              <div className="col-3">
+              <div className="col-3 text-left">
                 <img className="student-image" src={student.ghAvatarUrl} alt="Github Avatar"></img>
               </div>
             </div>
