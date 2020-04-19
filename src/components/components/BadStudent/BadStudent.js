@@ -17,6 +17,7 @@ class BadStudent extends React.Component {
   render() {
     const { student } = this.state;
     const githubLink = `https://github.com/${student.githubUsername}`;
+
     return (
       <tr className="BadStudent">
         <td className="col-xs-3">
