@@ -785,6 +785,13 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/dom-loops",
     "hwUrl": "",
     "instructor": "Luke",
+    "recordings": [
+      {
+        "link": "https://zoom.us/rec/share/5e4rdajB-FtJZ7fvtBqDWo0FPYDCT6a8hnAer_sExR4M4QTRrd6GHexYThS_5rZq",
+        "password": "5J?dF+^j",
+        "topic": "Dev Tools, Loops, Dom"
+      }
+    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/js-array-looping.md",
     "start": "April 21, 2020 19:00:00",
     "title": "Looping and the DOM"
