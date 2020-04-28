@@ -811,9 +811,16 @@
     "description": "JS",
     "end": "April 27, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "https://github.com/nss-evening-cohort-12/events",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/event-listeners",
     "hwUrl": "",
     "instructor": "Luke",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/3JdfE4qp8zpLWavR6B3kYIU9AaLiaaa823dI_vQEmUYtTzahAOL3NdbdFCqxAi-_",
+        "password": "7o%&01*0",
+        "topic": "Event Listeners"
+      }
+    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/js-events.md",
     "start": "April 27, 2020 18:00:00",
     "title": "Basic Event Listeners"
@@ -945,9 +952,9 @@
     "eventType": "study",
     "githubRepo": "",
     "hwUrl": "",
-    "instructor": "Zoe",
+    "instructor": "",
     "resourceUrl": "",
-    "start": "May 22, 2020 9:00:00",
+    "start": "May 23, 2020 9:00:00",
     "title": "Exercises"
   },
   "cal84": {
