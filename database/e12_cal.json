@@ -832,6 +832,13 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/bootstrap",
     "hwUrl": "",
     "instructor": "Luke",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/w5JUN5vR-HxOYp2R5XuCBYcuRKX9aaa8hCQa8vcEnx7I7SgqHl2Tmut6w3bPXnUw",
+        "password": "2U&04$FM",
+        "topic": "Bootstrap"
+      }
+    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/bootstrap.md",
     "start": "April 28, 2020 18:00:00",
     "title": "Bootstrap"
