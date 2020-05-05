@@ -861,6 +861,13 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
+        "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/59FrIL_S3GlJaYXWxBDnW5QQTp36eaa8hHIY_qYMxRq_G8yvS9uynL8IOyVvg8T6",
+        "password": " 0H%D&5#r",
+        "topic": "Wireframs/GH Projects"
+      }
+    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/wireframes.md",
     "start": "May 04, 2020 18:00:00",
     "title": "Wireframes"
@@ -872,6 +879,13 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
+        "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/59FrIL_S3GlJaYXWxBDnW5QQTp36eaa8hHIY_qYMxRq_G8yvS9uynL8IOyVvg8T6",
+        "password": " 0H%D&5#r",
+        "topic": "Wireframs/GH Projects"
+      }
+    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/github-projects.md",
     "start": "May 04, 2020 20:00:00",
     "title": "Github Projects"
@@ -888,15 +902,15 @@
     "title": "Group Project Planning"
   },
   "cal77": {
-    "description": "See what you are going to be able to do in 5 months",
-    "end": "May 09, 2020 11:00:00",
-    "eventType": "demo",
+    "description": "What to expect from NSS Career Services",
+    "end": "May 09, 2020 10:00:00",
+    "eventType": "lecture",
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "",
     "resourceUrl": "",
     "start": "May 09, 2020 9:00:00",
-    "title": "E11 Front End Capstone Demo Day"
+    "title": "Career Talk: Intro"
   },
   "cal78": {
     "description": "Using git for teams",
@@ -904,9 +918,9 @@
     "eventType": "lecture",
     "githubRepo": "",
     "hwUrl": "",
-    "instructor": "Luke,Michael,Matt",
+    "instructor": "Luke, Michael, Matt",
     "resourceUrl": "",
-    "start": "May 09, 2020 12:00:00",
+    "start": "May 09, 2020 10:00:00",
     "title": "Git for teams"
   },
   "cal79": {
