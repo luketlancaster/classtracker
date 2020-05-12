@@ -861,7 +861,7 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-        "recordings": [
+    "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/59FrIL_S3GlJaYXWxBDnW5QQTp36eaa8hHIY_qYMxRq_G8yvS9uynL8IOyVvg8T6",
         "password": " 0H%D&5#r",
@@ -876,10 +876,10 @@
     "description": "How to make a github projects board",
     "end": "May 04, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/the-cookie-monster",
     "hwUrl": "",
     "instructor": "Luke",
-        "recordings": [
+    "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/59FrIL_S3GlJaYXWxBDnW5QQTp36eaa8hHIY_qYMxRq_G8yvS9uynL8IOyVvg8T6",
         "password": " 0H%D&5#r",
@@ -919,6 +919,13 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke, Michael, Matt",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/4d1uLKH02FhIGo2Vt16OUbEsOp35eaa81XQX_KAJzE1SIno6D7RVbIXH9ej_x7iO",
+        "password": "9X&u#8%*",
+        "topic": "CS and Git For Teams"
+      }
+    ],
     "resourceUrl": "",
     "start": "May 09, 2020 10:00:00",
     "title": "Git for teams"
