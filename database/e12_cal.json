@@ -1050,5 +1050,104 @@
     "resourceUrl": "",
     "start": "June 6, 2020 9:00:00",
     "title": "Exercises"
+  },
+  "cal91": {
+    "description": "Your new favorite social media site?",
+    "end": "June 8, 2020 19:00:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 8, 2020 18:00:00",
+    "title": "Linkedin and Networking"
+  },
+  "cal92": {
+    "description": "Group Project: See Github Project",
+    "end": "June 13, 2020 21:59:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 8, 2020 21:59:00",
+    "title": "Group Project - Chatty"
+  },
+  "cal93": {
+    "description": "Why Linkedin is Important",
+    "end": "June 10, 2020 19:00:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 10, 2020 18:00:00",
+    "title": "Exercises"
+  },
+  "cal94": {
+    "description": "Show and tell!",
+    "end": "June 15, 2020 21:30:00",
+    "eventType": "demo",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 15, 2020 18:00:00",
+    "title": "Demo Group Project"
+  },
+  "cal95": {
+    "description": "Databases are Neat",
+    "end": "June 16, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 16, 2020 18:00:00",
+    "title": "ERDs"
+  },
+  "cal96": {
+    "description": "Authentication, Data Structures, and how to get 'em",
+    "end": "June 20, 2020 14:00:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 20, 2020 09:00:00",
+    "title": "Firebase, Auth, Json, and Axios (oh my)"
+  },
+  "cal97": {
+    "description": "Asynchronous Javascript",
+    "end": "June 22, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 22, 2020 18:00:00",
+    "title": "Promises and Firebase GET"
+  },
+  "cal98": {
+    "description": "Removing data and deploying with Firebase",
+    "end": "June 23, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 23, 2020 18:00:00",
+    "title": "Firebase DELETE and Deployments"
+  },
+  "cal99": {
+    "description": "Open time to work on exercises",
+    "end": "June 27, 2020 14:00:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "June 27, 2020 9:00:00",
+    "title": "Exercises"
   }
 }
