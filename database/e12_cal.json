@@ -989,9 +989,16 @@
     "description": "JS",
     "end": "may 26, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/almost-amazon",
     "hwUrl": "",
     "instructor": "Luke",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/otBwBbjyzUNJZ8_N-GWDffQ6Gd2-X6a8gSEfqPJfxE-pqyk8g6iobm9gNQI8ksox",
+        "password": "9O^@29!$",
+        "topic": "ES6 Modules"
+      }
+    ],
     "resourceUrl": "",
     "start": "May 26, 2020 18:00:00",
     "title": "Simple ES6 Modules"
@@ -1003,6 +1010,13 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/7_FKLrjT-GlObavr7EfTe_YNLKfnaaa80yhIrqYPzkqqgvGsUOSD1q0uHiLpX1MO",
+        "password": "4X=4p@o3",
+        "topic": "$jQuery"
+      }
+    ],
     "resourceUrl": "",
     "start": "May 30, 2020 9:00:00",
     "title": "Jquery"
@@ -1022,10 +1036,17 @@
     "description": "JS",
     "end": "June 1, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/webpack-intro",
     "hwUrl": "",
     "instructor": "Luke",
-    "resourceUrl": "",
+    "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-2-patterns-and-tools/chapters/task-runners.md",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/7-9EI_LN1DJJTZHd1VyDd5JmIdrjX6a8hCMf-_RezE9n5aS78HJY4GrqKmnk6od_",
+        "password": "4y==t3n3",
+        "topic": "Webpack"
+      }
+    ],
     "start": "June 1, 2020 18:00:00",
     "title": "Task Runners"
   },
@@ -1033,10 +1054,17 @@
     "description": "JS",
     "end": "June 2, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/hogwarts",
     "hwUrl": "",
     "instructor": "Luke",
-    "resourceUrl": "",
+    "resourceUrl": "https://sass-lang.com/",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/2ZRSH6rw0X5JS5HAxViAX7wqDt_dT6a81SlN_KBfnb-crMTUHWKB3sM2ZSrETnM",
+        "password": "3v@+2f@v",
+        "topic": "SASS"
+      }
+    ],
     "start": "June 2, 2020 18:00:00",
     "title": "SASS"
   },
@@ -1082,7 +1110,7 @@
     "instructor": "",
     "resourceUrl": "",
     "start": "June 10, 2020 18:00:00",
-    "title": "Exercises"
+    "title": "Guest Speaker"
   },
   "cal94": {
     "description": "Show and tell!",
