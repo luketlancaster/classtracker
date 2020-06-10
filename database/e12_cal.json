@@ -1087,6 +1087,13 @@
     "hwUrl": "",
     "instructor": "",
     "resourceUrl": "",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/zuIvN7WvyztJUJWO1UHGZ_8YRMe1eaa8gHQWq6IPxRrA2t_lVqtbZWvwek94e4ad",
+        "password": "0C&.4B38",
+        "topic": "LinkedIn/Networking"
+      }
+    ],
     "start": "June 8, 2020 18:00:00",
     "title": "Linkedin and Networking"
   },
@@ -1100,17 +1107,6 @@
     "resourceUrl": "",
     "start": "June 8, 2020 21:59:00",
     "title": "Group Project - Chatty"
-  },
-  "cal93": {
-    "description": "Why Linkedin is Important",
-    "end": "June 10, 2020 19:00:00",
-    "eventType": "lecture",
-    "githubRepo": "",
-    "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "",
-    "start": "June 10, 2020 18:00:00",
-    "title": "Guest Speaker"
   },
   "cal94": {
     "description": "Show and tell!",
