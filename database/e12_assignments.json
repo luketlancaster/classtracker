@@ -68,5 +68,15 @@
     "assignedNumber": 7,
     "topic": "Modules",
     "notes": "Individual Assignment"
+  },
+  "assignment08": {
+    "title": "Personal Bio Site 2",
+    "URL": "https://github.com/nss-nightclass-projects/personal-bio-site-instructions/blob/master/personal-bio-site-02.md",
+    "dueDate": "2020-06-23",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 8,
+    "topic": "Modules",
+    "notes": "Individual Assignment"
   }
 }
