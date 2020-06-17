@@ -8,7 +8,7 @@
     "instructor": "",
     "resourceUrl": "",
     "start": "September 28, 2020 9:00:00",
-    "title": "Intersecccion Break"
+    "title": "Intersession Break"
   },
   "cal01": {
     "description": "No Classes",
@@ -1125,8 +1125,15 @@
     "eventType": "lecture",
     "githubRepo": "",
     "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/6JdpEqre901IHqPysWXjBYx6HJv_X6a82iYa__MNzB7jo9jKrcZuIypF2OLeLGf8",
+        "password": "3E#44!y3",
+        "topic": "ERDs"
+      }
+    ],
     "start": "June 16, 2020 18:00:00",
     "title": "ERDs"
   },
