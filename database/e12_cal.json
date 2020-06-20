@@ -1143,8 +1143,15 @@
     "eventType": "lecture",
     "githubRepo": "",
     "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "https://firebase.google.com/docs/",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/5OcuLo7590NJZdLs5HCDUfAlEpS_T6a8hnIa_aVexE2arTsG4nEJa3CIIlgyvesj",
+        "password": "0T?02263",
+        "topic": "Firebase && Axios"
+      }
+    ],
     "start": "June 20, 2020 09:00:00",
     "title": "Firebase, Auth, Json, and Axios (oh my)"
   },
