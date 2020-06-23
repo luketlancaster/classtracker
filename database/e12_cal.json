@@ -1141,7 +1141,7 @@
     "description": "Authentication, Data Structures, and how to get 'em",
     "end": "June 20, 2020 14:00:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "Luke",
     "resourceUrl": "https://firebase.google.com/docs/",
@@ -1159,10 +1159,17 @@
     "description": "Asynchronous Javascript",
     "end": "June 22, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/x_R8JJ_zzFNJRafT1xmGfIokJbzDeaa82igWrPYOmRlbEIDDVoqZBDbI3xdvLHO7",
+        "password": "8A%*M45=",
+        "topic": "Promises && GET"
+      }
+    ],
     "start": "June 22, 2020 18:00:00",
     "title": "Promises and Firebase GET"
   },
