@@ -1174,15 +1174,22 @@
     "title": "Promises and Firebase GET"
   },
   "cal98": {
-    "description": "Removing data and deploying with Firebase",
+    "description": "SMASH functions and Removing data",
     "end": "June 23, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "",
     "resourceUrl": "",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/yt0tIa_szkJOQrPy5GHCQJYhPYXveaa80SIW8vsNzEqSqcXpP3EtrZyNyytGOqFA",
+        "password": "8l+Z+f67",
+        "topic": "SMASH && DELETE"
+      }
+    ],
     "start": "June 23, 2020 18:00:00",
-    "title": "Firebase DELETE and Deployments"
+    "title": "SMASH and Firebase DELETE"
   },
   "cal99": {
     "description": "Open time to work on exercises",
