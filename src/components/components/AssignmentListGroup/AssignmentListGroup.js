@@ -12,7 +12,7 @@ class AssignmentListGroup extends React.Component {
           <div className="col-3 text-left">
             <h5>{assignment.title}</h5>
           </div>
-          <div className="col-8 text-left">
+          <div className="col-4 text-left">
             <p>{assignment.notes}</p>
             <small><a href={assignment.URL} target="_blank" rel="noopener noreferrer">View Assignment</a></small>
           </div>
