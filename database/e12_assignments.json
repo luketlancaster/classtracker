@@ -78,5 +78,45 @@
     "assignedNumber": 8,
     "topic": "Modules",
     "notes": "Individual Assignment"
+  },
+  "assignment09": {
+    "title": "Pinterest Part 1",
+    "URL": "https://github.com/nss-nightclass-projects/exercise-vault/blob/master/FIREBASE_pinterest.md#part-1-erds-and-authentication",
+    "dueDate": "2020-07-07",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 9,
+    "topic": "Project Setup and Firebase Auth",
+    "notes": "Individual Assignment"
+  },
+  "assignment10": {
+    "title": "Pinterest Part 2",
+    "URL": "https://github.com/nss-nightclass-projects/exercise-vault/blob/master/FIREBASE_pinterest.md#part-2-read",
+    "dueDate": "2020-07-07",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 10,
+    "topic": "Firebase Read/GET",
+    "notes": "Individual Assignment"
+  },
+  "assignment11": {
+    "title": "Pinterest Part 3",
+    "URL": "https://github.com/nss-nightclass-projects/exercise-vault/blob/master/FIREBASE_pinterest.md#part-3-delete",
+    "dueDate": "2020-07-07",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 11,
+    "topic": "Firebase DELETE",
+    "notes": "Individual Assignment"
+  },
+  "assignment12": {
+    "title": "Personal Bio Site 3",
+    "URL": "https://github.com/nss-nightclass-projects/personal-bio-site-instructions/blob/master/personal-bio-site-03.md",
+    "dueDate": "2020-07-07",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 12,
+    "topic": "Firebase-ing It Up",
+    "notes": "Individual Assignment"
   }
 }
