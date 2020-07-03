@@ -1199,7 +1199,113 @@
     "hwUrl": "",
     "instructor": "",
     "resourceUrl": "",
-    "start": "June 27, 2020 9:00:00",
+    "start": "June 27, 2020 10:00:00",
     "title": "Exercises"
+  },
+  "cal100": {
+    "description": "Firebase Deploys",
+    "end": "June 27, 2020 10:00:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-3-data-driven-applications/chapters/firebase-deploy.md",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/1fx4DO3a0HpOGJXM2VjcZKcOOIbLX6a8hCUf-PsImkyw1C8cbn9vRuf7w1-DrhHK",
+        "password": "7j%6%W+&",
+        "topic": "Deploy"
+      }
+    ],
+    "start": "June 27, 2020 9:00:00",
+    "title": "Firebase Deploy"
+  },
+  "cal101": {
+    "description": "Makin' some Shroomies",
+    "end": "July 6, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 6, 2020 18:00:00",
+    "title": "Firebase CREATE"
+  },
+  "cal102": {
+    "description": "Update some Shroomies",
+    "end": "July 7, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 7, 2020 18:00:00",
+    "title": "Firebase UPDATE"
+  },
+  "cal103": {
+    "description": "Checking out what capstones look like",
+    "end": "July 11, 2020 11:30:00",
+    "eventType": "demo",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 11, 2020 9:00:00",
+    "title": "E11 FE Demos"
+  },
+  "cal104": {
+    "description": "Open time to work on things",
+    "end": "July 11, 2020 14:00:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 11, 2020 11:30:00",
+    "title": "Exercises"
+  },
+  "cal105": {
+    "title": "Group Project - Nutshell",
+    "start": "July 13, 2020 14:00:00",
+    "end": "July 19, 2020 23:50:00",
+    "resourceUrl": "",
+    "instructor": "",
+    "hwUrl": "",
+    "eventType": "study",
+    "description": "Group Project: See Github",
+    "githubRepo": ""
+  },
+  "cal106": {
+    "title": "Demo Nutshell Group Project",
+    "start": "July 20, 2020 18:00:00",
+    "end": "July 20, 2020 21:30:00",
+    "resourceUrl": "",
+    "instructor": "",
+    "hwUrl": "",
+    "eventType": "demo",
+    "description": "Show and tell!",
+    "githubRepo": ""
+  },
+  "cal107": {
+    "title": "Group Project - Nutshell Part 2",
+    "start": "July 21, 2020 18:00:00",
+    "end": "August 3, 2020 23:50:00",
+    "resourceUrl": "",
+    "instructor": "",
+    "hwUrl": "",
+    "eventType": "study",
+    "description": "Group Project: See Github",
+    "githubRepo": ""
+  },
+  "cal108": {
+    "title": "Demo Nutshell Part 2 Group Project",
+    "start": "August 4, 2020 18:00:00",
+    "end": "August 4, 2020 21:30:00",
+    "resourceUrl": "",
+    "instructor": "",
+    "hwUrl": "",
+    "eventType": "demo",
+    "description": "Show and tell!",
+    "githubRepo": ""
   }
 }
