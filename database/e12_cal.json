@@ -1224,10 +1224,17 @@
     "description": "Makin' some Shroomies",
     "end": "July 6, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "",
     "resourceUrl": "",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/y5xqdI-hrH9IQZ3G0lvCe6AEOr_mX6a81Hcd_vtcnR6aR7WooCJtMnpNFUhsJO7P",
+        "password": "9N^?j.n2",
+        "topic": "Create"
+      }
+    ],
     "start": "July 6, 2020 18:00:00",
     "title": "Firebase CREATE"
   },
@@ -1235,7 +1242,7 @@
     "description": "Update some Shroomies",
     "end": "July 7, 2020 21:30:00",
     "eventType": "lecture",
-    "githubRepo": "",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "",
     "resourceUrl": "",

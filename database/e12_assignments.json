@@ -118,5 +118,35 @@
     "assignedNumber": 12,
     "topic": "Firebase-ing It Up",
     "notes": "Individual Assignment"
+  },
+  "assignment13": {
+    "title": "Pinterest Part 4",
+    "URL": "https://github.com/nss-nightclass-projects/exercise-vault/blob/master/FIREBASE_pinterest.md#part-4-create",
+    "dueDate": "2020-07-14",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 13,
+    "topic": "Firebase CREATE",
+    "notes": "Individual Assignment"
+  },
+  "assignment14": {
+    "title": "Pinterest Part 5",
+    "URL": "https://github.com/nss-nightclass-projects/exercise-vault/blob/master/FIREBASE_pinterest.md#part-5-update",
+    "dueDate": "2020-07-14",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 14,
+    "topic": "Firebase UPDATE",
+    "notes": "Individual Assignment"
+  },
+  "assignment15": {
+    "title": "Pinterest Part 6",
+    "URL": "https://github.com/nss-nightclass-projects/exercise-vault/blob/master/FIREBASE_pinterest.md#part-6-deploy-and-readme",
+    "dueDate": "2020-07-14",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 14,
+    "topic": "Firebase Deploy",
+    "notes": "Individual Assignment"
   }
 }
