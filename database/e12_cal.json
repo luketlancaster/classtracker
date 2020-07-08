@@ -1246,6 +1246,13 @@
     "hwUrl": "",
     "instructor": "",
     "resourceUrl": "",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/_sUlEIPR60pIc6PMx0yCAZ8sTsPGX6a8gChM__sEnxwmuIg55NfIzGwiGzXRzrRC",
+        "password": "4X?UkHht",
+        "topic": "Update"
+      }
+    ],
     "start": "July 7, 2020 18:00:00",
     "title": "Firebase UPDATE"
   },
