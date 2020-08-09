@@ -120,6 +120,144 @@
     "start": "April 23, 2020 18:00:00",
     "title": "Week 3 HW"
   },
+  "cal100": {
+    "description": "Firebase Deploys",
+    "end": "June 27, 2020 10:00:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/1fx4DO3a0HpOGJXM2VjcZKcOOIbLX6a8hCUf-PsImkyw1C8cbn9vRuf7w1-DrhHK",
+        "password": "7j%6%W+&",
+        "topic": "Deploy"
+      }
+    ],
+    "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-3-data-driven-applications/chapters/firebase-deploy.md",
+    "start": "June 27, 2020 9:00:00",
+    "title": "Firebase Deploy"
+  },
+  "cal101": {
+    "description": "Makin' some Shroomies",
+    "end": "July 6, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
+    "hwUrl": "",
+    "instructor": "",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/y5xqdI-hrH9IQZ3G0lvCe6AEOr_mX6a81Hcd_vtcnR6aR7WooCJtMnpNFUhsJO7P",
+        "password": "9N^?j.n2",
+        "topic": "Create"
+      }
+    ],
+    "resourceUrl": "",
+    "start": "July 6, 2020 18:00:00",
+    "title": "Firebase CREATE"
+  },
+  "cal102": {
+    "description": "Update some Shroomies",
+    "end": "July 7, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
+    "hwUrl": "",
+    "instructor": "",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/_sUlEIPR60pIc6PMx0yCAZ8sTsPGX6a8gChM__sEnxwmuIg55NfIzGwiGzXRzrRC",
+        "password": "4X?UkHht",
+        "topic": "Update"
+      }
+    ],
+    "resourceUrl": "",
+    "start": "July 7, 2020 18:00:00",
+    "title": "Firebase UPDATE"
+  },
+  "cal103": {
+    "description": "Checking out what capstones look like",
+    "end": "July 11, 2020 11:30:00",
+    "eventType": "demo",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 11, 2020 9:00:00",
+    "title": "E11 FE Demos"
+  },
+  "cal104": {
+    "description": "Open time to work on things",
+    "end": "July 11, 2020 14:00:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 11, 2020 11:30:00",
+    "title": "Exercises"
+  },
+  "cal105": {
+    "description": "Group Project: See Github",
+    "end": "July 19, 2020 23:50:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 13, 2020 14:00:00",
+    "title": "Group Project - Nutshell"
+  },
+  "cal106": {
+    "description": "Show and tell!",
+    "end": "July 20, 2020 21:30:00",
+    "eventType": "demo",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 20, 2020 18:00:00",
+    "title": "Demo Nutshell Group Project"
+  },
+  "cal107": {
+    "description": "Group Project: See Github",
+    "end": "August 3, 2020 23:50:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "July 21, 2020 18:00:00",
+    "title": "Group Project - Nutshell Part 2"
+  },
+  "cal108": {
+    "description": "Show and tell!",
+    "end": "August 4, 2020 21:30:00",
+    "eventType": "demo",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "August 4, 2020 18:00:00",
+    "title": "Demo Nutshell Part 2 Group Project"
+  },
+  "cal109": {
+    "description": "React Installs",
+    "end": "August 8, 2020 14:00:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-4-react/chapters/react-setup.md",
+    "start": "August 8, 2020 9:00:00",
+    "title": "React Installs",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/5ZYydpLt939Ja6P28nPFWJQ8OYTjeaa80Cka_vQOyEhB2834HBRYhuokuzAollQI",
+        "password": "n!L7r6&B",
+        "topic": "React Setup"
+      }
+    ]
+  },
   "cal11": {
     "description": "HW #4",
     "end": "April 29, 2020 21:30:00",
@@ -130,6 +268,105 @@
     "resourceUrl": "",
     "start": "April 29, 2020 18:00:00",
     "title": "Week 4 HW"
+  },
+  "cal110": {
+    "description": "React State and Props",
+    "end": "August 10, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/goats",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-4-react/chapters/react-intro.md",
+    "start": "August 10, 2020 18:00:00",
+    "title": "React State and Props"
+  },
+  "cal111": {
+    "description": "Using Prop Types",
+    "end": "August 11, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/goats",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "https://reactjs.org/docs/typechecking-with-proptypes.html",
+    "start": "August 11, 2020 18:00:00",
+    "title": "React PropTypes"
+  },
+  "cal112": {
+    "description": "Open time to work on exercises",
+    "end": "August 15, 2020 14:00:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "August 15, 2020 9:00:00",
+    "title": "Exercises"
+  },
+  "cal113": {
+    "description": "Firebase Auth with React",
+    "end": "August 17, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/react-pinterest",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "August 17, 2020 18:00:00",
+    "title": "React + Firebase Auth"
+  },
+  "cal114": {
+    "description": "Firebase READ with React",
+    "end": "August 18, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/react-pinterest",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "August 18, 2020 18:00:00",
+    "title": "React + READ"
+  },
+  "cal115": {
+    "description": "Firebase DELETE with React",
+    "end": "August 22, 2020 11:00:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/react-pinterest",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "August 22, 2020 9:00:00",
+    "title": "React + Delete"
+  },
+  "cal116": {
+    "description": "Open time to work on exercises",
+    "end": "August 22, 2020 14:00:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "August 22, 2020 11:00:00",
+    "title": "Exercises"
+  },
+  "cal117": {
+    "description": "Firebase CREATE with React",
+    "end": "August 24, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/react-pinterest",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "August 24, 2020 18:00:00",
+    "title": "React + CREATE"
+  },
+  "cal118": {
+    "description": "Firebase UPDATE with React",
+    "end": "August 25, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/react-pinterest",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "August 25, 2020 18:00:00",
+    "title": "React + UPDATE"
   },
   "cal12": {
     "description": "HW #4",
@@ -142,6 +379,105 @@
     "start": "April 30, 2020 18:00:00",
     "title": "Week 4 HW"
   },
+  "cal120": {
+    "description": "Everything you need to know about your final project",
+    "end": "August 29, 2020 10:00:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "https://github.com/nss-evening-cohort-12/capstone-central",
+    "start": "August 29, 2020 09:00:00",
+    "title": "Capstone Discussion"
+  },
+  "cal121": {
+    "description": "",
+    "end": "August 29, 2020 14:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/scat-surprise",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "August 29, 2020 10:00:00",
+    "title": "React Routing + AUTH"
+  },
+  "cal123": {
+    "description": "React routing and firebase READ",
+    "end": "August 31, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/scat-surprise",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "August 31, 2020 18:00:00",
+    "title": "React Routing + READ"
+  },
+  "cal124": {
+    "description": "React routing and firebase CREATE",
+    "end": "September 1, 2020 21:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/scat-surprise",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "September 1, 2020 18:00:00",
+    "title": "React Routing + CREATE"
+  },
+  "cal125": {
+    "description": "React routing and firebase DELETE",
+    "end": "September 5, 2020 11:30:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/scat-surprise",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "September 5, 2020 09:00:00",
+    "title": "React Routing + DELETE"
+  },
+  "cal126": {
+    "description": "React routing and firebase UPDATE",
+    "end": "September 5, 2020 14:00:00",
+    "eventType": "lecture",
+    "githubRepo": "https://github.com/nss-evening-cohort-12/scat-surprise",
+    "hwUrl": "",
+    "instructor": "Luke",
+    "resourceUrl": "",
+    "start": "September 5, 2020 11:30:00",
+    "title": "React Routing + UPDATE"
+  },
+  "cal127": {
+    "description": "Instructors will be focused on checkin' in",
+    "end": "September 12, 2020 14:00:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "September 12, 2020 9:00:00",
+    "title": "Capstone Checkins"
+  },
+  "cal128": {
+    "description": "",
+    "end": "September 8, 2020 21:30:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "September 8, 2020 18:00:00",
+    "title": "Capstone Planning, Exercises"
+  },
+  "cal129": {
+    "description": "Capstone Coding",
+    "end": "September 25, 2020 23:50:00",
+    "eventType": "study",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "September 9, 2020 18:00:00",
+    "title": "CAPSTONES"
+  },
   "cal13": {
     "description": "HW #5",
     "end": "May 6, 2020 21:30:00",
@@ -152,6 +488,17 @@
     "resourceUrl": "",
     "start": "May 6, 2020 18:00:00",
     "title": "Week 5 HW"
+  },
+  "cal130": {
+    "description": "Show off Your Captsone",
+    "end": "September 26, 2020 12:00:00",
+    "eventType": "lecture",
+    "githubRepo": "",
+    "hwUrl": "",
+    "instructor": "",
+    "resourceUrl": "",
+    "start": "September 26, 2020 09:00:00",
+    "title": "Demo to E13"
   },
   "cal14": {
     "description": "HW #5",
@@ -1039,7 +1386,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/webpack-intro",
     "hwUrl": "",
     "instructor": "Luke",
-    "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-2-patterns-and-tools/chapters/task-runners.md",
     "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/7-9EI_LN1DJJTZHd1VyDd5JmIdrjX6a8hCMf-_RezE9n5aS78HJY4GrqKmnk6od_",
@@ -1047,6 +1393,7 @@
         "topic": "Webpack"
       }
     ],
+    "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-2-patterns-and-tools/chapters/task-runners.md",
     "start": "June 1, 2020 18:00:00",
     "title": "Task Runners"
   },
@@ -1057,7 +1404,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/hogwarts",
     "hwUrl": "",
     "instructor": "Luke",
-    "resourceUrl": "https://sass-lang.com/",
     "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/2ZRSH6rw0X5JS5HAxViAX7wqDt_dT6a81SlN_KBfnb-crMTUHWKB3sM2ZSrETnM",
@@ -1065,6 +1411,7 @@
         "topic": "SASS"
       }
     ],
+    "resourceUrl": "https://sass-lang.com/",
     "start": "June 2, 2020 18:00:00",
     "title": "SASS"
   },
@@ -1086,7 +1433,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "",
-    "resourceUrl": "",
     "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/zuIvN7WvyztJUJWO1UHGZ_8YRMe1eaa8gHQWq6IPxRrA2t_lVqtbZWvwek94e4ad",
@@ -1094,6 +1440,7 @@
         "topic": "LinkedIn/Networking"
       }
     ],
+    "resourceUrl": "",
     "start": "June 8, 2020 18:00:00",
     "title": "Linkedin and Networking"
   },
@@ -1126,7 +1473,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-    "resourceUrl": "https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/",
     "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/6JdpEqre901IHqPysWXjBYx6HJv_X6a82iYa__MNzB7jo9jKrcZuIypF2OLeLGf8",
@@ -1134,6 +1480,7 @@
         "topic": "ERDs"
       }
     ],
+    "resourceUrl": "https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/",
     "start": "June 16, 2020 18:00:00",
     "title": "ERDs"
   },
@@ -1144,7 +1491,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "Luke",
-    "resourceUrl": "https://firebase.google.com/docs/",
     "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/5OcuLo7590NJZdLs5HCDUfAlEpS_T6a8hnIa_aVexE2arTsG4nEJa3CIIlgyvesj",
@@ -1152,6 +1498,7 @@
         "topic": "Firebase && Axios"
       }
     ],
+    "resourceUrl": "https://firebase.google.com/docs/",
     "start": "June 20, 2020 09:00:00",
     "title": "Firebase, Auth, Json, and Axios (oh my)"
   },
@@ -1162,7 +1509,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "Luke",
-    "resourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises",
     "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/x_R8JJ_zzFNJRafT1xmGfIokJbzDeaa82igWrPYOmRlbEIDDVoqZBDbI3xdvLHO7",
@@ -1170,6 +1516,7 @@
         "topic": "Promises && GET"
       }
     ],
+    "resourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises",
     "start": "June 22, 2020 18:00:00",
     "title": "Promises and Firebase GET"
   },
@@ -1180,7 +1527,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "",
-    "resourceUrl": "",
     "recordings": [
       {
         "link": "https://us02web.zoom.us/rec/share/yt0tIa_szkJOQrPy5GHCQJYhPYXveaa80SIW8vsNzEqSqcXpP3EtrZyNyytGOqFA",
@@ -1188,6 +1534,7 @@
         "topic": "SMASH && DELETE"
       }
     ],
+    "resourceUrl": "",
     "start": "June 23, 2020 18:00:00",
     "title": "SMASH and Firebase DELETE"
   },
@@ -1201,125 +1548,5 @@
     "resourceUrl": "",
     "start": "June 27, 2020 10:00:00",
     "title": "Exercises"
-  },
-  "cal100": {
-    "description": "Firebase Deploys",
-    "end": "June 27, 2020 10:00:00",
-    "eventType": "lecture",
-    "githubRepo": "",
-    "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-3-data-driven-applications/chapters/firebase-deploy.md",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/1fx4DO3a0HpOGJXM2VjcZKcOOIbLX6a8hCUf-PsImkyw1C8cbn9vRuf7w1-DrhHK",
-        "password": "7j%6%W+&",
-        "topic": "Deploy"
-      }
-    ],
-    "start": "June 27, 2020 9:00:00",
-    "title": "Firebase Deploy"
-  },
-  "cal101": {
-    "description": "Makin' some Shroomies",
-    "end": "July 6, 2020 21:30:00",
-    "eventType": "lecture",
-    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
-    "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/y5xqdI-hrH9IQZ3G0lvCe6AEOr_mX6a81Hcd_vtcnR6aR7WooCJtMnpNFUhsJO7P",
-        "password": "9N^?j.n2",
-        "topic": "Create"
-      }
-    ],
-    "start": "July 6, 2020 18:00:00",
-    "title": "Firebase CREATE"
-  },
-  "cal102": {
-    "description": "Update some Shroomies",
-    "end": "July 7, 2020 21:30:00",
-    "eventType": "lecture",
-    "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
-    "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/_sUlEIPR60pIc6PMx0yCAZ8sTsPGX6a8gChM__sEnxwmuIg55NfIzGwiGzXRzrRC",
-        "password": "4X?UkHht",
-        "topic": "Update"
-      }
-    ],
-    "start": "July 7, 2020 18:00:00",
-    "title": "Firebase UPDATE"
-  },
-  "cal103": {
-    "description": "Checking out what capstones look like",
-    "end": "July 11, 2020 11:30:00",
-    "eventType": "demo",
-    "githubRepo": "",
-    "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "",
-    "start": "July 11, 2020 9:00:00",
-    "title": "E11 FE Demos"
-  },
-  "cal104": {
-    "description": "Open time to work on things",
-    "end": "July 11, 2020 14:00:00",
-    "eventType": "study",
-    "githubRepo": "",
-    "hwUrl": "",
-    "instructor": "",
-    "resourceUrl": "",
-    "start": "July 11, 2020 11:30:00",
-    "title": "Exercises"
-  },
-  "cal105": {
-    "title": "Group Project - Nutshell",
-    "start": "July 13, 2020 14:00:00",
-    "end": "July 19, 2020 23:50:00",
-    "resourceUrl": "",
-    "instructor": "",
-    "hwUrl": "",
-    "eventType": "study",
-    "description": "Group Project: See Github",
-    "githubRepo": ""
-  },
-  "cal106": {
-    "title": "Demo Nutshell Group Project",
-    "start": "July 20, 2020 18:00:00",
-    "end": "July 20, 2020 21:30:00",
-    "resourceUrl": "",
-    "instructor": "",
-    "hwUrl": "",
-    "eventType": "demo",
-    "description": "Show and tell!",
-    "githubRepo": ""
-  },
-  "cal107": {
-    "title": "Group Project - Nutshell Part 2",
-    "start": "July 21, 2020 18:00:00",
-    "end": "August 3, 2020 23:50:00",
-    "resourceUrl": "",
-    "instructor": "",
-    "hwUrl": "",
-    "eventType": "study",
-    "description": "Group Project: See Github",
-    "githubRepo": ""
-  },
-  "cal108": {
-    "title": "Demo Nutshell Part 2 Group Project",
-    "start": "August 4, 2020 18:00:00",
-    "end": "August 4, 2020 21:30:00",
-    "resourceUrl": "",
-    "instructor": "",
-    "hwUrl": "",
-    "eventType": "demo",
-    "description": "Show and tell!",
-    "githubRepo": ""
   }
 }
