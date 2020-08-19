@@ -111,7 +111,12 @@ class App extends React.Component {
               />
               <Route path="/students" exact component={Students} />
               <Route path="/assignments" exact component={Assignments} />
-              <Route path="/calendar" exact component={ClassCalendar} />
+              <Route path="/calendar"
+                exact
+                render={props => (
+                  <ClassCalendar {...props} admin={this.state.admin} />
+                )}
+              />
               <PrivateRoute
                 authed={this.state.authed}
                 path="/submit"

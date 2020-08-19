@@ -3,6 +3,8 @@ import { Calendar, momentLocalizer } from 'react-big-calendar';
 import moment from 'moment';
 import 'react-big-calendar/lib/css/react-big-calendar.css';
 
+import CreateRecording from '../../components/CreateRecording/CreateRecording';
+
 import calRequests from '../../../helpers/data/calRequests';
 
 import './ClassCalendar.scss';
@@ -89,6 +91,8 @@ class ClassCalendar extends React.Component {
     this.setState({ selectedEvents: events });
   };
 
+  getRecordingBtn = event => ((this.props.admin && event.eventType === 'lecture') ? <CreateRecording event={event} /> : '');
+
   render() {
     const minTime = new Date();
     const maxTime = new Date();
@@ -165,7 +169,7 @@ class ClassCalendar extends React.Component {
                 <div className="recordings">
                   <strong>Recording(s):</strong>
                     {event.recordings.map((r, i) => (
-                      <span>
+                      <span key={Date.now()}>
                         <a key={`recording${i}`} href={r.link} className="btn btn-outline-dark col-md-6" target="_blank" rel="noopener noreferrer">
                           {r.topic}
                         </a>
@@ -174,9 +178,8 @@ class ClassCalendar extends React.Component {
                     ))}
                 </div>
               ) : (
-                ''
+                this.getRecordingBtn(event)
               )}
-
             </div>
           </div>
         </div>
