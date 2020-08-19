@@ -44,6 +44,21 @@
     "treehouse": "",
     "uid": "li7lVm9HkYSIyqd4xFrtipWZB633"
   },
+  "instructor4": {
+    "biosite": "inst",
+    "codeAcademy": "",
+    "email": "hannahkhall13@gmail.com",
+    "firstName": "Hannah",
+    "freeCodeCamp": "",
+    "githubUsername": "hannah.hall",
+    "isStudent": false,
+    "lastName": "Hall",
+    "notes": "",
+    "preworkComplete": true,
+    "replIt": "",
+    "treehouse": "",
+    "uid": "li7lVm9HkYSIyqd4xFrtipWZB633"
+  },
   "student1": {
     "biosite": "inst",
     "caPercentage": 100,
@@ -62,25 +77,6 @@
     "replIt": "https://repl.it/@JeanineBeckle",
     "treehouse": "",
     "uid": "92HrcHJw1dSX9mqxwJZOIXt8fU73"
-  },
-  "student10": {
-    "biosite": "inst",
-    "caPercentage": 90,
-    "codeAcademy": "https://www.codecademy.com/profiles/StuGetz62",
-    "email": "stugetz@icloud.com",
-    "fccPercentage": 0,
-    "firstName": "Stuart",
-    "freeCodeCamp": "https://www.freecodecamp.org/fcc351021ad-45f4-4bd3-aee0-7a5dfde2fe76",
-    "ghAvatarUrl": "https://avatars3.githubusercontent.com/u/63132279?v=4",
-    "githubUsername": "StuGetz",
-    "isStudent": true,
-    "lastName": "Getz",
-    "notes": "",
-    "preworkComplete": true,
-    "replCount": 0,
-    "replIt": "https://repl.it/@StuGetz62",
-    "treehouse": "",
-    "uid": "Cvp9jVnZxcWApJHt39eDklNh8tr2"
   },
   "student12": {
     "biosite": "inst",
@@ -349,7 +345,7 @@
     "uid": "2dBJFueEfORVoBAp2yUMN9kkdWK2"
   },
   "student26": {
-    "biosite": "inst",
+    "biosite": "https://logandevelopment.io/",
     "caPercentage": 100,
     "codeAcademy": "https://www.codecademy.com/profiles/MLogan1998",
     "email": "mlogan5212@gmail.com",
@@ -402,7 +398,7 @@
     "uid": "qOSkt08fdVYsjiIqaAZExwmSdir1"
   },
   "student4": {
-    "biosite": "inst",
+    "biosite": "https://personal-bio-site-ebe64.web.app/",
     "caPercentage": 100,
     "codeAcademy": "https://www.codecademy.com/profiles/Wcampbell91",
     "email": "wcampbell91@gmail.com",
@@ -438,25 +434,6 @@
     "replIt": "https://repl.it/@TheDotson",
     "treehouse": "",
     "uid": "y63k2nlzXbOgqNlabzfFlzoE7rF2"
-  },
-  "student7": {
-    "biosite": "inst",
-    "caPercentage": 61,
-    "codeAcademy": "https://www.codecademy.com/profiles/bummersummer",
-    "email": "esrduke@gmail.com",
-    "fccPercentage": 100,
-    "firstName": "Summer",
-    "freeCodeCamp": "https://www.freecodecamp.org/fcc1db5cedd-e61a-446d-bf59-72cc03cf624b",
-    "ghAvatarUrl": "https://avatars2.githubusercontent.com/u/60371978?v=4",
-    "githubUsername": "esrduke95",
-    "isStudent": true,
-    "lastName": "Duke",
-    "notes": "",
-    "preworkComplete": true,
-    "replCount": 10,
-    "replIt": "https://repl.it/@SummerDuke",
-    "treehouse": "",
-    "uid": "92z4E6s20kRWiYC0o6Ffl0eJo1W2"
   },
   "student9": {
     "biosite": "inst",
