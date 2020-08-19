@@ -145,8 +145,38 @@
     "dueDate": "2020-07-14",
     "isAssigned": "true",
     "isGithub": "true",
-    "assignedNumber": 14,
+    "assignedNumber": 15,
     "topic": "Firebase Deploy",
+    "notes": "Individual Assignment"
+  },
+  "assignment16": {
+    "title": "Shark Attack",
+    "URL": "https://github.com/nss-nightclass-projects/exercise-vault/blob/master/REACT_shark_attack.md",
+    "dueDate": "2020-08-18",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 16,
+    "topic": "React State and Props",
+    "notes": "Individual Assignment"
+  },
+  "assignment17": {
+    "title": "Personal Bio Site 4",
+    "URL": "https://github.com/nss-nightclass-projects/personal-bio-site-instructions/blob/master/personal-bio-site-04.md",
+    "dueDate": "2020-08-18",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 17,
+    "topic": "JS",
+    "notes": "Individual Assignment"
+  },
+  "assignment18": {
+    "title": "Sorts Roster",
+    "URL": "https://github.com/nss-nightclass-projects/exercise-vault/blob/master/REACT_sports_roster.md",
+    "dueDate": "2020-08-31",
+    "isAssigned": "true",
+    "isGithub": "true",
+    "assignedNumber": 18,
+    "topic": "React CRUD",
     "notes": "Individual Assignment"
   }
 }

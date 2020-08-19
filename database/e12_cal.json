@@ -145,13 +145,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/y5xqdI-hrH9IQZ3G0lvCe6AEOr_mX6a81Hcd_vtcnR6aR7WooCJtMnpNFUhsJO7P",
-        "password": "9N^?j.n2",
-        "topic": "Create"
-      }
-    ],
     "resourceUrl": "",
     "start": "July 6, 2020 18:00:00",
     "title": "Firebase CREATE"
@@ -163,13 +156,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/_sUlEIPR60pIc6PMx0yCAZ8sTsPGX6a8gChM__sEnxwmuIg55NfIzGwiGzXRzrRC",
-        "password": "4X?UkHht",
-        "topic": "Update"
-      }
-    ],
     "resourceUrl": "",
     "start": "July 7, 2020 18:00:00",
     "title": "Firebase UPDATE"
@@ -278,10 +264,17 @@
     "instructor": "Luke",
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-4-react/chapters/react-intro.md",
     "start": "August 10, 2020 18:00:00",
-    "title": "React State and Props"
+    "title": "React State and Props",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/z-xQEo2srSROH5XP-X7zXLEAFJS0X6a803NM8_ILxUzvEVcNI1pgBivBq0tMxZ6U",
+        "password": "hEz9?@PY",
+        "topic": "React State and Props"
+      }
+    ]
   },
   "cal111": {
-    "description": "Using Prop Types",
+    "description": "PropTypes and Passing Functions",
     "end": "August 11, 2020 21:30:00",
     "eventType": "lecture",
     "githubRepo": "https://github.com/nss-evening-cohort-12/goats",
@@ -289,7 +282,14 @@
     "instructor": "Luke",
     "resourceUrl": "https://reactjs.org/docs/typechecking-with-proptypes.html",
     "start": "August 11, 2020 18:00:00",
-    "title": "React PropTypes"
+    "title": "PropTypes && Passing Funcs",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/4uF0C7_CyWZJXI2R6F6HBIwrAtX-X6a8hHMerPdYzh7EOou4iUTqQEB2EhUR_4lI",
+        "password": "9Qh@vG#t",
+        "topic": "PropTypes and Passing Functions"
+      }
+    ]
   },
   "cal112": {
     "description": "Open time to work on exercises",
@@ -311,7 +311,14 @@
     "instructor": "Luke",
     "resourceUrl": "",
     "start": "August 17, 2020 18:00:00",
-    "title": "React + Firebase Auth"
+    "title": "React + Firebase Auth",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/1P1fcbO33F5JfLfM62rzAbN9Ndrpeaa80ShKrvdbxUac8y-rLttwcpz5mh8ilAJd",
+        "password": "WX0#*uNX",
+        "topic": "React/Firebase Auth"
+      }
+    ]
   },
   "cal114": {
     "description": "Firebase READ with React",
@@ -322,7 +329,14 @@
     "instructor": "Luke",
     "resourceUrl": "",
     "start": "August 18, 2020 18:00:00",
-    "title": "React + READ"
+    "title": "React + READ",
+    "recordings": [
+      {
+        "link": "https://us02web.zoom.us/rec/share/uMloNYP_-zhJToHI-BDTSpwlJo_HX6a82yYZ86ZYmkhHjVpiD14Rh7xS_3zgSHmh",
+        "password": "i=93uK7x",
+        "topic": "React/Firebase GET"
+      }
+    ]
   },
   "cal115": {
     "description": "Firebase DELETE with React",
@@ -936,12 +950,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "John Wark",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/-ed6L4DK_UxLHoHp7m3aVochMZ7BX6a8hnMa-fcEzUroRDw4yniGzEhJYs5lx370",
-        "topic": "John's Talk"
-      }
-    ],
     "resourceUrl": "",
     "start": "April 6, 2020 18:00:00",
     "title": "Don't be an Asshole!"
@@ -975,12 +983,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/-5V5JaCt23FObonV6ED6QoMrIqbOX6a8hCEb_qcIyUo9kgAjXotwa-MaKorw9CuQ",
-        "topic": "VS Code + CLI"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/vs_code.md",
     "start": "April 7, 2020 19:00:00",
     "title": "Intro to VS Code"
@@ -992,12 +994,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/-5V5JaCt23FObonV6ED6QoMrIqbOX6a8hCEb_qcIyUo9kgAjXotwa-MaKorw9CuQ",
-        "topic": "VS Code + CLI"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/command-line.md",
     "start": "April 7, 2020 20:00:00",
     "title": "Command Line"
@@ -1020,13 +1016,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/98Z7cLCqqkNJcqvU7kb5ZvQ6Jr_DX6a80ygfrPAIzk-WHNhaZg4FdHxMoTph0uRB",
-        "password": "R3=s$Q&R",
-        "topic": "Git"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-and-github.md",
     "start": "April 11, 2020 10:00:00",
     "title": "Intro to Github"
@@ -1038,13 +1027,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/98Z7cLCqqkNJcqvU7kb5ZvQ6Jr_DX6a80ygfrPAIzk-WHNhaZg4FdHxMoTph0uRB?startTime=1586618241000",
-        "password": "R3=s$Q&R",
-        "topic": "GitHub && Repo Setup"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/git-branching.md",
     "start": "April 11, 2020 12:00:00",
     "title": "Git Branching"
@@ -1056,13 +1038,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/html101",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/u_wrCLrOr2JJfK_h8EWYYKQTRKL6T6a8gXcc-fEMSpYkhpYAyZDOrWmLmiX9DQ",
-        "password": "c4.+0UD?",
-        "topic": "HTML"
-      }
-    ],
     "resourceUrl": "",
     "start": "April 13, 2020 18:00:00",
     "title": "HTML"
@@ -1074,13 +1049,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/flexbox-intro",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/wf4sLK-t9V9IUNbws22YRLAuRoTCT6a8hyMaqPZbyB2b3oJ2tBlWSJxX3yyfCF1D",
-        "password": "g2^n8$22",
-        "topic": "CSS/Flexbox"
-      }
-    ],
     "resourceUrl": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
     "start": "April 14, 2020 18:00:00",
     "title": "Flexbox"
@@ -1103,13 +1071,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/js-intro",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/2Jx-d-HM535IS7Ph0kuGc4d_A5jseaa813cf8_APzR4TbsM9rI4BZJkJiEqcqX5e",
-        "password": "7l*20GCC",
-        "topic": "JS Intro"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/tree/master/book-1-foundations",
     "start": "April 20, 2020 18:00:00",
     "title": "JS Overview"
@@ -1132,13 +1093,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/dom-loops",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://zoom.us/rec/share/5e4rdajB-FtJZ7fvtBqDWo0FPYDCT6a8hnAer_sExR4M4QTRrd6GHexYThS_5rZq",
-        "password": "5J?dF+^j",
-        "topic": "Dev Tools, Loops, Dom"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/js-array-looping.md",
     "start": "April 21, 2020 19:00:00",
     "title": "Looping and the DOM"
@@ -1161,13 +1115,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/event-listeners",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/3JdfE4qp8zpLWavR6B3kYIU9AaLiaaa823dI_vQEmUYtTzahAOL3NdbdFCqxAi-_",
-        "password": "7o%&01*0",
-        "topic": "Event Listeners"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/js-events.md",
     "start": "April 27, 2020 18:00:00",
     "title": "Basic Event Listeners"
@@ -1179,13 +1126,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/bootstrap",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/w5JUN5vR-HxOYp2R5XuCBYcuRKX9aaa8hCQa8vcEnx7I7SgqHl2Tmut6w3bPXnUw",
-        "password": "2U&04$FM",
-        "topic": "Bootstrap"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/bootstrap.md",
     "start": "April 28, 2020 18:00:00",
     "title": "Bootstrap"
@@ -1208,13 +1148,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/59FrIL_S3GlJaYXWxBDnW5QQTp36eaa8hHIY_qYMxRq_G8yvS9uynL8IOyVvg8T6",
-        "password": " 0H%D&5#r",
-        "topic": "Wireframs/GH Projects"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/wireframes.md",
     "start": "May 04, 2020 18:00:00",
     "title": "Wireframes"
@@ -1226,13 +1159,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/the-cookie-monster",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/59FrIL_S3GlJaYXWxBDnW5QQTp36eaa8hHIY_qYMxRq_G8yvS9uynL8IOyVvg8T6",
-        "password": " 0H%D&5#r",
-        "topic": "Wireframs/GH Projects"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-1-foundations/chapters/github-projects.md",
     "start": "May 04, 2020 20:00:00",
     "title": "Github Projects"
@@ -1266,13 +1192,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke, Michael, Matt",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/4d1uLKH02FhIGo2Vt16OUbEsOp35eaa81XQX_KAJzE1SIno6D7RVbIXH9ej_x7iO",
-        "password": "9X&u#8%*",
-        "topic": "CS and Git For Teams"
-      }
-    ],
     "resourceUrl": "",
     "start": "May 09, 2020 10:00:00",
     "title": "Git for teams"
@@ -1339,13 +1258,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/almost-amazon",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/otBwBbjyzUNJZ8_N-GWDffQ6Gd2-X6a8gSEfqPJfxE-pqyk8g6iobm9gNQI8ksox",
-        "password": "9O^@29!$",
-        "topic": "ES6 Modules"
-      }
-    ],
     "resourceUrl": "",
     "start": "May 26, 2020 18:00:00",
     "title": "Simple ES6 Modules"
@@ -1357,13 +1269,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/7_FKLrjT-GlObavr7EfTe_YNLKfnaaa80yhIrqYPzkqqgvGsUOSD1q0uHiLpX1MO",
-        "password": "4X=4p@o3",
-        "topic": "$jQuery"
-      }
-    ],
     "resourceUrl": "",
     "start": "May 30, 2020 9:00:00",
     "title": "Jquery"
@@ -1386,13 +1291,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/webpack-intro",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/7-9EI_LN1DJJTZHd1VyDd5JmIdrjX6a8hCMf-_RezE9n5aS78HJY4GrqKmnk6od_",
-        "password": "4y==t3n3",
-        "topic": "Webpack"
-      }
-    ],
     "resourceUrl": "https://github.com/nss-nightclass-projects/Night-Class-Resources/blob/master/book-2-patterns-and-tools/chapters/task-runners.md",
     "start": "June 1, 2020 18:00:00",
     "title": "Task Runners"
@@ -1404,13 +1302,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/hogwarts",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/2ZRSH6rw0X5JS5HAxViAX7wqDt_dT6a81SlN_KBfnb-crMTUHWKB3sM2ZSrETnM",
-        "password": "3v@+2f@v",
-        "topic": "SASS"
-      }
-    ],
     "resourceUrl": "https://sass-lang.com/",
     "start": "June 2, 2020 18:00:00",
     "title": "SASS"
@@ -1433,13 +1324,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/zuIvN7WvyztJUJWO1UHGZ_8YRMe1eaa8gHQWq6IPxRrA2t_lVqtbZWvwek94e4ad",
-        "password": "0C&.4B38",
-        "topic": "LinkedIn/Networking"
-      }
-    ],
     "resourceUrl": "",
     "start": "June 8, 2020 18:00:00",
     "title": "Linkedin and Networking"
@@ -1473,13 +1357,6 @@
     "githubRepo": "",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/6JdpEqre901IHqPysWXjBYx6HJv_X6a82iYa__MNzB7jo9jKrcZuIypF2OLeLGf8",
-        "password": "3E#44!y3",
-        "topic": "ERDs"
-      }
-    ],
     "resourceUrl": "https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/",
     "start": "June 16, 2020 18:00:00",
     "title": "ERDs"
@@ -1491,13 +1368,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/5OcuLo7590NJZdLs5HCDUfAlEpS_T6a8hnIa_aVexE2arTsG4nEJa3CIIlgyvesj",
-        "password": "0T?02263",
-        "topic": "Firebase && Axios"
-      }
-    ],
     "resourceUrl": "https://firebase.google.com/docs/",
     "start": "June 20, 2020 09:00:00",
     "title": "Firebase, Auth, Json, and Axios (oh my)"
@@ -1509,13 +1379,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "Luke",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/x_R8JJ_zzFNJRafT1xmGfIokJbzDeaa82igWrPYOmRlbEIDDVoqZBDbI3xdvLHO7",
-        "password": "8A%*M45=",
-        "topic": "Promises && GET"
-      }
-    ],
     "resourceUrl": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises",
     "start": "June 22, 2020 18:00:00",
     "title": "Promises and Firebase GET"
@@ -1527,13 +1390,6 @@
     "githubRepo": "https://github.com/nss-evening-cohort-12/firebase-mushrooms",
     "hwUrl": "",
     "instructor": "",
-    "recordings": [
-      {
-        "link": "https://us02web.zoom.us/rec/share/yt0tIa_szkJOQrPy5GHCQJYhPYXveaa80SIW8vsNzEqSqcXpP3EtrZyNyytGOqFA",
-        "password": "8l+Z+f67",
-        "topic": "SMASH && DELETE"
-      }
-    ],
     "resourceUrl": "",
     "start": "June 23, 2020 18:00:00",
     "title": "SMASH and Firebase DELETE"
