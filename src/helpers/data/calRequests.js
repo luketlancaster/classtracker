@@ -18,4 +18,6 @@ const getCalEventsRequest = () => new Promise((resolve, reject) => {
     .catch(err => reject(err));
 });
 
-export default { getCalEventsRequest };
+const updateCalEvent = updatedEvent => axios.put(`${baseUrl}/cal/${updatedEvent.id}.json`, updatedEvent);
+
+export default { getCalEventsRequest, updateCalEvent };
